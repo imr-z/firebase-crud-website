@@ -1,4 +1,4 @@
-# Donload Git Bash
+# Download Git Bash
 [Open Me](https://git-scm.com/downloads)
 
 # Firebase CRUD Website
